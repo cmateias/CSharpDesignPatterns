@@ -2,7 +2,5 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/src/Strategy/Strategy/bin/Debug/netcoreapp3.1
-/src/Strategy/Strategy/obj
-/src/Strategy/Observer/bin/Debug/netcoreapp3.1
-/src/Strategy/Observer/obj
+/src/*/*/bin/*
+/src/*/*/obj
